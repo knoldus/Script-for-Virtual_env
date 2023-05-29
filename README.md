@@ -13,8 +13,10 @@
 For windows:
 
 .\setup.ps1
+
 ````
 ````
 For Linux and Other user:
+
 ./setup.sh
 ````
